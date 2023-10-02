@@ -1,0 +1,4 @@
+git clone
+git push <remote> <branche>
+git push –all <remote>
+git push
