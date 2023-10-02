@@ -3,3 +3,5 @@ git push <remote> <branche>
 git push –all <remote>
 git push
 git pull
+git branch
+git checkout
